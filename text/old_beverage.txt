@@ -1,0 +1,13 @@
+ .........................................Beverage.........................................
+  0. Back to food menu
+ *******************************************
+
+ Chicken                         
+  1. Coca Cola
+  2. Hundred Plus
+  3. Sprite
+  4. Milo
+  5. Minute Maid Orange Juice
+
+ Which beverage would you like to order?
+ -------------------------------------------

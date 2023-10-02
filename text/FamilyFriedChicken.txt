@@ -1,0 +1,6 @@
+EOFamily Fried Chicken
+55.99
+EOFamily Spicy Fried Chicken
+59.99
+EOFamily Mixed Fried Chicken
+57.99

@@ -1,0 +1,19 @@
+﻿  new.cpp
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(447,7): warning C4101: 'SChoice': unreferenced local variable
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(900,53): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(905,54): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(1455,61): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(1460,62): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(1524,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(1528,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(1524,28): warning C4101: 'i': unreferenced local variable
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(1718,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(1768,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(1805,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(2282,62): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(2287,63): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(2305,62): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(2310,63): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(2532,62): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\new.cpp(2537,63): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  assignment.vcxproj -> F:\Degree Year 1\Year 1 Semester 1\Problem solving and programming\Assignment\assignment newww\assignment\x64\Debug\assignment.exe

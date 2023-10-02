@@ -1,0 +1,17 @@
+ ......................................Family Package......................................
+  0. Back to food menu
+ *******************************************
+
+ Fried Chicken					Chicken Burger
+  1. EOFamily Fried Chicken          RM55.99	 4. EOFamily Chicken Burger         RM49.99
+  2. EOFamily Spicy Fried Chicken    RM59.99	 5. EOFamily Spicy Chicken Burger   RM54.99
+  3. EOFamily Mixed Fried Chicken    RM57.99
+
+ *******************************************	*******************************************
+
+ Fish Burger
+  6. EOFamily Fish Burger            RM49.99
+  7. EOFamily Spicy Fish Burger	     RM54.99
+
+ Which package would you like to order?
+ -------------------------------------------

@@ -1,0 +1,10 @@
+ .......................................Fried Chicken.......................................
+  0. Back to food menu
+ *******************************************
+
+ Chicken                         
+  1. EOFried Chicken		      RM1.99
+  2. EOSpicy Fried Chicken	      RM2.49    
+
+ Which flavor would you like to order?
+ -------------------------------------------

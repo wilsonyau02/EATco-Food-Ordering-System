@@ -1,0 +1,16 @@
+ =========================================Food Menu=========================================
+ *Please don't enter extra numbers 
+ *unless you know the code of the food you want to order
+
+ *******************************************
+  0. Back to main menu
+ *******************************************
+
+  1. Package
+  2. A la carte
+  3. Beverage
+  4. Check cart
+  5. Check out
+
+ Which would you like to select?
+ -------------------------------------------

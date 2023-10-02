@@ -1,0 +1,17 @@
+ .....................................Personal Package.....................................
+  0. Back to main menu
+ *******************************************
+
+ Fried Chicken					Chicken Burger
+  1. EOPersonal Fried Chicken	     RM 9.99	 4. EOPersonal Chicken Burger	    RM 9.99
+  2. EOPersonal Spicy Fried Chicken  RM11.99	 5. EOPersonal Spicy Chicken Burger RM10.99
+  3. EOPersonal Mixed Fried Chicken  RM10.99
+
+ *******************************************	*******************************************	
+
+ Fish Burger
+  6. EOPersonal Fish Burger	     RM 9.99
+  7. EOPersonal Spicy Fish Burger    RM10.99
+
+ Which package would you like to order?
+ -------------------------------------------

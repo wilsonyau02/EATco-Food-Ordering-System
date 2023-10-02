@@ -1,0 +1,11 @@
+ ..........................................Burger..........................................
+  0. Back to food menu
+ *******************************************
+
+ Chicken                           		Fish
+  1. EOChicken			     RM 3.99	4. EOFish		RM 3.99
+  2. EOSpicy Chicken		     RM 4.99	5. EOSpicy Fish		RM 4.99
+  3. EODeluxe Chicken		     RM 5.99	6. EODeluxe Fish	RM 5.99
+
+ Which burger would you like to order?
+ -------------------------------------------

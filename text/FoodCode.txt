@@ -1,0 +1,60 @@
+111
+EOPersonal Fried Chicken
+112
+EOPersonal Mixed Fried Chicken
+113
+EOPersonal Spicy Fried Chicken
+114
+EOPersonal Chicken Burger
+115
+EOPersonal Spicy Chicken Burger
+116
+EOPersonal Fish Burger
+117
+EOPersonal Spicy Fish Burger
+121
+EOFamily Fried Chicken
+122
+EOFamily Mixed Fried Chicken
+123
+EOFamily Spicy Fried Chicken
+124
+EOFamily Chicken Burger
+125
+EOFamily Spicy Chicken Burger
+126
+EOFamily Fish Burger
+127
+EOFamily Spicy Fish Burger
+211
+EOChicken
+212
+EODeluxe Chicken
+213
+EOSpicy Chicken
+214
+EODeluxe Fish
+215
+EOFish
+216
+EOSpicy Fish
+221
+EOFried Chicken
+222
+EOSpicy Fried Chicken
+231
+French Fries
+232
+Nuggets
+31
+Coca Cola
+32
+Coffee
+33
+Hundred Plus
+34
+Milo
+35
+Minute Maid Orange Juice
+36
+Sprite

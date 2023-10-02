@@ -1,0 +1,15 @@
+﻿  new.cpp
+C:\Users\Asus\source\repos\assignment\assignment\new.cpp(383,7): warning C4101: 'SChoice': unreferenced local variable
+C:\Users\Asus\source\repos\assignment\assignment\new.cpp(803,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\source\repos\assignment\assignment\new.cpp(908,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\source\repos\assignment\assignment\new.cpp(1058,40): warning C4805: '!=': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Asus\source\repos\assignment\assignment\new.cpp(1060,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Asus\source\repos\assignment\assignment\new.cpp(1116,28): warning C4101: 'i': unreferenced local variable
+C:\Users\Asus\source\repos\assignment\assignment\new.cpp(1769,62): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\Asus\source\repos\assignment\assignment\new.cpp(1774,63): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\Asus\source\repos\assignment\assignment\new.cpp(1908,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\source\repos\assignment\assignment\new.cpp(2003,62): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\Asus\source\repos\assignment\assignment\new.cpp(2008,63): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\Asus\source\repos\assignment\assignment\new.cpp(2313,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asus\source\repos\assignment\assignment\new.cpp(2356,23): warning C4018: '<': signed/unsigned mismatch
+  assignment.vcxproj -> C:\Users\Asus\source\repos\assignment\assignment\Debug\assignment.exe
